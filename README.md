@@ -1,8 +1,3 @@
-I understand you want to combine all the previous sections (`How to Use`, `Legal Disclaimer`, `License`, `Author`) into the `README.md` content you provided, and present it as one complete code block.
-
-Here is the full `README.md` content, including all the sections, in a single Markdown code block for you to copy:
-
-````markdown
 # 💬 WhatsApp Message Automation Script (Educational & Ethical Use)
 
 A Python-based script designed for **responsible WhatsApp message automation and testing**. This tool facilitates sending rotating messages with customizable delays and repetition counts. It is intended for **educational purposes, ethical hacking scenarios, and automation testing** within controlled environments where explicit consent has been obtained.
