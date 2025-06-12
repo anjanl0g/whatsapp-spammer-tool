@@ -80,8 +80,3 @@ You are free to:
   * **✍️ Author:** Sherkhan
   * **🔗 LinkedIn:** [https://www.linkedin.com/in/sherkhan-sk/](https://www.linkedin.com/in/sherkhan-sk/)
   * **📧 Contact:** Please reach out via LinkedIn for questions, collaborations, or ethical inquiries.
-
-<!-- end list -->
-
-```
-```
