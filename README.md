@@ -1,4 +1,4 @@
-# 💬 WhatsApp Message Spamming Script (Educational & Ethical Use)
+# 💬 WhatsApp Message Spamming Tool (Educational & Ethical Use)
 
 A Python-based script designed for **responsible WhatsApp message spamming and testing**. This tool facilitates sending rotating messages with customizable delays and repetition counts. It is intended for **educational purposes, ethical hacking scenarios, and automation testing** within controlled environments where explicit consent has been obtained.
 
